@@ -1,0 +1,29 @@
+body {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: space-around;
+}
+.appdiv {
+  margin-top: 106px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+input {
+  height: 41px;
+  width: 208px;
+  border: none;
+  border-radius: 10px;
+}
+.addicon {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.inputdiv {
+  display: flex;
+}
+
+.fa-plus {
+  font-size: 2.8rem;
+}
